@@ -1,4 +1,2 @@
 # cpp
-ey, nett here
-
-welcome to my repo dud, feel yourself at home 
+welcome to my repo, feel yourself at home.
