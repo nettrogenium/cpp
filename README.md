@@ -1,3 +1,3 @@
 # cpp
-ey, nett here
+ey, nett here\n
 welcome to my repo dud, feel yourself at home 
